@@ -4,7 +4,7 @@
 _Date_: november, 12th, 2020\
 ETL - **Crime-Demographics-and-City-Response** <br/>
 
-![Toronto image](./Graphs_and_Analysis/Resources/.png)
+![Toronto](https://user-images.githubusercontent.com/68926116/106818646-92b4d300-6646-11eb-82c3-b5c321f92315.jpg)
 
 
 ## Introduction
